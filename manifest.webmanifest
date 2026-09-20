@@ -1,11 +1,11 @@
 {
-  "name": "Финансы 3D",
-  "short_name": "Финансы 3D",
+  "name": "Двойная игра",
+  "short_name": "Двойная игра",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0C0F16",
-  "theme_color": "#0C0F16",
+  "background_color": "#F3F5F6",
+  "theme_color": "#F3F5F6",
   "icons": [
     {
       "src": "icons/icon-512.png",
